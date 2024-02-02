@@ -9,3 +9,8 @@ Este codigo se tendra que añdadir al boton que quieres que haga la acción de c
 ## Así tendras terminado la opción
 
 Añadaselo a los botones que tu quieras que cambien de escena, solamente cambia el nombre de la escena.
+
+## Para la función salir
+
+Para que se salga del juego al darle un botón lo que tendras que hacer es usar el ```GameExit.cs```
+Añadelo al boton que desee.
